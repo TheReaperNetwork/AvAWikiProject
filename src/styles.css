@@ -667,12 +667,44 @@ button {
   }
 
   .sidebar {
-    position: relative;
-    width: 100%;
+    position: fixed;
+    top: 16px;
+    left: 16px;
+    width: auto;
+    min-width: 0;
+    max-width: calc(100% - 32px);
     height: auto;
-    border-right: none;
+    padding: 0;
+    background: transparent;
+    border: none;
     box-shadow: none;
-    padding: 16px;
+    z-index: 60;
+    transition: all var(--transition);
+  }
+
+  .sidebar:not(.sidebar-open) {
+    width: auto;
+    height: auto;
+  }
+
+  .sidebar:not(.sidebar-open) .side-body,
+  .sidebar:not(.sidebar-open) .side-title {
+    display: none;
+  }
+
+  .sidebar.sidebar-open {
+    top: 0;
+    left: 0;
+    width: min(92vw, 340px);
+    height: 100vh;
+    padding: 22px 18px;
+    background: var(--sidebar-bg);
+    border-right: 1px solid var(--border);
+    box-shadow: 12px 0 40px rgba(2, 8, 23, 0.35);
+  }
+
+  .sidebar.sidebar-open .side-body {
+    display: block;
   }
 
   .app-main-content {
@@ -701,6 +733,13 @@ button {
 
   .side-suggestions {
     padding: 14px;
+  }
+
+  .side-toggle {
+    position: sticky;
+    top: 18px;
+    z-index: 70;
+    margin-bottom: 14px;
   }
 }
 
