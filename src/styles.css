@@ -618,6 +618,120 @@ button {
   }
 }
 
+@media (max-width: 720px) {
+  .container {
+    padding: 0 16px 20px;
+  }
+
+  .page {
+    padding: 20px 0 40px;
+  }
+
+  .home-hero {
+    padding: 24px 18px;
+    border-radius: 20px;
+  }
+
+  .home-page .title {
+    font-size: 2rem;
+    gap: 10px;
+  }
+
+  .title-icon.large,
+  .title-icon.tco-large,
+  .title-icon.tdl-large {
+    width: 56px;
+    height: 56px;
+  }
+
+  .hero-cta {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .cards {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .card {
+    min-height: unset;
+  }
+
+  .video-section {
+    margin-top: 24px;
+  }
+
+  .video-frame {
+    max-width: 100%;
+  }
+
+  .sidebar {
+    position: relative;
+    width: 100%;
+    height: auto;
+    border-right: none;
+    box-shadow: none;
+    padding: 16px;
+  }
+
+  .app-main-content {
+    margin-left: 0;
+    padding: 16px 0 32px;
+  }
+
+  .side-top {
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .side-title {
+    width: 100%;
+    text-align: left;
+    margin-top: 12px;
+  }
+
+  .side-links {
+    margin-top: 14px;
+  }
+
+  .side-link {
+    padding: 12px 14px;
+  }
+
+  .side-suggestions {
+    padding: 14px;
+  }
+}
+
+@media (max-width: 520px) {
+  .home-page .title {
+    font-size: 1.7rem;
+  }
+
+  .hero-cta {
+    padding: 14px 16px;
+  }
+
+  .title-icon.left,
+  .title-icon.right {
+    margin: 0;
+  }
+
+  .side-toggle {
+    width: 42px;
+    height: 42px;
+  }
+
+  .side-link {
+    font-size: 0.92rem;
+  }
+
+  .card {
+    padding: 20px;
+  }
+}
+
 @media (max-width: 840px) {
   .with-sidebar {
     flex-direction: column;
