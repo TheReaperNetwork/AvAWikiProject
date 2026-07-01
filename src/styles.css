@@ -736,10 +736,15 @@ button {
   }
 
   .side-toggle {
-    position: sticky;
+    position: fixed;
     top: 18px;
-    z-index: 70;
+    left: 18px;
+    z-index: 100;
     margin-bottom: 14px;
+  }
+
+  .sidebar {
+    padding-top: 72px;
   }
 }
 
