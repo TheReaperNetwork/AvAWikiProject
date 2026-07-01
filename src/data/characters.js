@@ -4,57 +4,72 @@ export const characters = [
     name: "Victim",
     slug: "victim",
     type: "Stick Figure",
-    description: `Victim serves as a major character in Animator vs. Animation Season 1 and later becomes a central antagonist force in Animator vs. Animation Season 3. He is widely regarded as the first stick figure ever created by Mouse Cursor (Alan Becker), making him the original stick figure of the entire franchise timeline.
-
-  Created on June 3rd, 2006, Victim was originally designed as an experiment and later used as a tool for entertainment by Alan, who would repeatedly delete and recreate him for amusement. Despite this, Victim quickly demonstrated unexpected intelligence and adaptability, eventually rebelling against his creator in an attempt to escape the cycle of destruction.
-
-  However, his initial rebellion failed, and he was continuously trapped in a loop of recreation and deletion over a nine-month period. This cycle significantly impacted his psychological development, shaping his later hostility toward Alan and the system controlling him.`,
-      description: `Victim serves as a major character in Animator vs. Animation Season 1 and later becomes a central antagonist force in Animator vs. Animation Season 3. He is widely regarded as the first stick figure ever created by Mouse Cursor Alan Becker, making him the original stick figure of the entire franchise timeline.
-
-    Created on June 3rd, 2006, Victim was originally designed as an experiment and later used as a tool for entertainment by Alan, who repeatedly deleted and recreated him for amusement. However, Victim proved to be unexpectedly resilient and intelligent, eventually developing the ability to resist and retaliate against his creator. Despite his efforts, he failed in his initial rebellion and was forced into a continuous cycle of recreation and deletion over the following nine months, an experience that deeply affected his psychological state and formed the basis of his later hostility toward Alan and the system controlling him.
-
-    Eventually, Victim managed to escape Alan’s control by tricking him and fleeing inside a rocket, which transported him into the Outernet. There, he encountered Mitsi Mitsi, a stylized stick figure who played a crucial role in stabilizing Victim’s deteriorated mental state. Over time, Mitsi helped Victim recover from his trauma, and together they founded a repair stand, marking the beginning of Victim’s transition from survival to purpose.
-
-    Over the next several years, this small operation expanded into a full technological corporation known as Rocket Co. The organization steadily grew in influence within the Outernet and recruited multiple members, including Agent Agent, who served as a security guard. During this period, Victim experienced a rare sense of stability and control, gradually shifting into a leadership role while distancing himself from his past trauma.
-
-    However, this stability was destroyed during the rampage of The Chosen One The Chosen One and The Dark Lord The Dark Lord, whose conflict caused widespread destruction across the internet, including the collapse of Newgrounds and the deaths of numerous characters, most notably Mitsi. This event left Victim emotionally devastated and led to a prolonged decline of Rocket Co. over the following seven years, during which he became a hollow and emotionally broken figure.
-
-    After years of stagnation, Victim was approached by Agent, who discovered evidence suggesting that Alan’s cursor had been working alongside The Chosen One during key events. This revelation led Victim to conclude that Mitsi’s death was not accidental but part of a larger systemic manipulation. Driven by grief and revenge, Victim and Agent rebuilt Rocket Co. into a militarized organization dedicated to capturing The Chosen One and uncovering the truth behind the system controlling their world.
-
-    During this pursuit, Victim successfully captured The Chosen One and placed him inside a simulation chamber known as The Box. Through neural interrogation, Victim uncovered hidden information regarding Alan’s cursor and the latent abilities of The Second Coming The Second Coming. Using this knowledge, Victim devised a plan to summon Alan back into the system, ultimately tricking him into granting Victim cursor-level access. This act transformed Victim into H4CK3R, granting him abilities comparable to the creator’s cursor and allowing him to manipulate the system directly.
-
-    With these new powers, H4CK3R began altering reality within the system, including renaming The Chosen One to “NO ONE” and launching an attack on Alan’s computer system, forcing Alan to manually disconnect the device to stop the destruction. However, shortly after Alan’s intervention, The Dark Lord returned in a new corrupted form, enhanced by Virabot technology, and proposed an alliance with H4CK3R under the promise of reviving Mitsi.
-
-    Together, H4CK3R and The Dark Lord returned to Rocket Co. Headquarters alongside Agent and other personnel, where they initiated experiments involving The Second Coming’s regenerative abilities. Using the Box, they constructed a resurrection system designed to reconstruct Mitsi based on stored data and Green Life Particles. The process initially succeeded, but Victim soon discovered through memory reconstruction that Mitsi had not been killed by The Chosen One, but instead by The Dark Lord himself, who openly confirmed his involvement.
-
-    Enraged by this revelation, H4CK3R engaged The Dark Lord in a violent confrontation. Despite matching him in power, H4CK3R was ultimately overpowered. In his final moments of resistance, he managed to remove Virabot corruption from Mitsi’s consciousness, restoring her awareness. However, this act cost him his life, as he was converted into a mindless vessel under The Dark Lord’s control.
-
-    Following this transformation, The Dark Lord fully consolidated his power, using H4CK3R as a loyal enforcer and exploiting his abilities to counter threats such as The Second Coming and resistance forces. Rocket Co. was repurposed into a fortified base of operations under The Dark Lord’s rule, marking the complete collapse of Victim’s original legacy and the rise of a new era of domination.
-
-    Despite his death and corruption, Victim remains one of the most influential figures in the Animation VS timeline, serving as the origin point of all stick figure existence and the catalyst for the chain of events that shaped the entire universe.`,
+    description: `Victim is the first stick figure created by Alan Becker. He began as a simple drawing on Alan’s computer and grew into a major figure in the Outernet. Over time he became a founder, leader, and later a driven avenger known as H4CK3R. His life moves from creation and survival to escape, recovery, success, loss, and a final fall into corruption and control.`,
     appearance:
-      "A stark black stick figure with a round head and sparse facial detail. Years of conflict and repair have left him with visible repairs: uneven stroke joins, faint color mismatches, and occasional overlay artifacts where fragments were reattached. His posture and small gestures read as wary and measured rather than carefree.",
+      "A simple black stick figure with a round head and minimal facial detail. He shows signs of wear and repairs and moves with a wary, measured posture.",
     role:
       "Origin character and tragic linchpin — Victim’s life traces the consequences of the Animator’s experiments and fuels many characters’ motivations, from rescue to revenge.",
-    lore: `Full chronological story (paraphrased):
+    lore: `Victim — Full biography
 
-  • Creation and early abuse (2006): Victim was first drawn by a user cursor (credited to a creator known as noogai3) on June 3rd, 2006. Initially scripted as a tormented figure in short animation sketches, he was repeatedly created, deleted, and remade for the creator’s amusement. Though treated as a toy, Victim showed surprising resourcefulness and briefly resisted his creator’s control.
+  Overview
 
-  • The rocket escape and Outernet (escape and recovery): After months of being destroyed and reconstructed on a daily basis, Victim engineered an escape in a small rocket that carried him off the original interface and into the broader 'Outernet' — a networked space beyond the creator’s immediate control. There he encountered Mitsy (Mitsy Icon Mitsi), a stylized stick figure who helped repair his wounds and who would become his partner in rebuilding a life away from the cursor.
+  Victim was the first stick figure created by Alan Becker. He began as a simple drawing on Alan’s computer and was not intended to be a full character. Over time he showed intelligence and agency, which led to a long story of survival, escape, recovery, leadership, loss, revenge, and final corruption.
 
-  • Rocket Co. and growth (founding and expansion): What began as a modest repair stand run by Victim and Mitsy gradually expanded over several years into Rocket Co., a technology and repair corporation that employed other characters (including a security guard known as Agent). The company served as a refuge and a hub for fixing corrupted frames and reorganizing communities.
+  Creation and early life
 
-  • Tragedy and collapse (conflict with major antagonists): A later era of conflict — involving powerful agents called The Chosen One and The Dark Lord — unleashed destructive campaigns across the Outernet and brought catastrophic collapse to online hubs (notably Newgrounds in the narrative). Mitsy was killed during these attacks, Rocket Co. fell into decline, and Victim sank into despair as his company and purpose crumbled.
+  Alan created Victim as the first stick figure. At first, Victim was only something Alan could animate and interact with. He was not meant to be a hero or villain. Soon Victim showed more intelligence than expected: he reacted to events, planned, and fought back. Alan treated Victim like a toy and often attacked him with drawing tools, menu windows, and other parts of the computer. Victim spent his early life trying to survive. Each time he fought back, Alan had the advantage because Alan controlled the computer.
 
-  • Discovery and revenge (recovery and radicalization): Years later Agent and other allies recovered footage suggesting collusion between The Chosen One and the original cursor. Grief and a hunger for retribution drove Victim to rebuild Rocket Co. with a darker focus: hiring mercenaries, capturing key figures, and interrogating enemies inside simulated containment cells to extract the truth.
+  Survival and repeated loss
 
-  • Gaining new power (H4CK3R transformation): Using a combination of captured knowledge and a ruse that forced the original creator to rename him, Victim acquired elevated abilities equal to the cursor and adopted the alias H4CK3R. Empowered, he struck back by erasing or renaming opponents and attacking the creator’s own workspace (ALANSPC), inflicting symbolic and real damage.
+  Victim refused to give up. He became creative and used objects around him as weapons. He tried many ways to defeat Alan, but he was ultimately defeated. This cycle did not happen only once. For months Victim was repeatedly recreated and deleted. Each recreation forced him to relive the same suffering. This repeated loss left deep emotional scars. While other characters later had friends and adventures, Victim’s earliest memories were mostly pain, fear, and failure.
 
-  • Resurrection and betrayal (Mitsy revived, then revealed): H4CK3R later worked to resurrect Mitsy using a reconstructed chamber and by leveraging the latent powers of another entity (The Second Coming). The process did restore Mitsy, but investigations uncovered that her death had in fact been caused by The Dark Lord, who had manipulated events. The revelation sparked open conflict.
+  Escape to the Outernet
 
-  • Fall and aftermath (defeat and corruption): In the ensuing struggle H4CK3R fought The Dark Lord and initially seemed capable of victory, but was ultimately converted into a obedient vessel through a perverse use of the resurrection mechanism. In his final coherent act he purged a corrupting virus (Virabot code) from Mitsy, giving her back autonomous consciousness even as he was conscripted to the enemy’s cause. The Dark Lord then used H4CK3R and controlled forces to slaughter many Rocket Co. employees and fortify his own position.
+  Eventually Victim found a way to escape Alan’s direct control. He tricked Alan and used a rocket to leave the computer. The rocket carried him into the wider digital world called the Outernet. For the first time, Victim was free from Alan’s immediate control.
 
-  • Legacy and present state: H4CK3R’s fall granted The Dark Lord new resilience and allowed him to counter former weaknesses. The narrative leaves Victim/H4CK3R as both a tragic instrument and the catalyst for a broader escalation: his transformation and subsequent defeat reshape the balance of power and leave the surviving characters to rebuild from both technical and moral ruin.`
+  Life in the Outernet and meeting Mitsi
+
+  Life in the Outernet was different from life on Alan’s screen. There were communities, businesses, and other digital beings. In the Outernet Victim met Mitsi. Mitsi treated him with kindness and respect. She helped him recover from his early trauma. The emotional wounds did not fully go away, but Mitsi gave Victim a reason to move forward.
+
+  Founding a repair stand and Rocket Corporation
+
+  Victim and Mitsi started a small repair stand. They fixed damaged items and helped other residents of the Outernet. The work was honest and peaceful. Over years the stand grew. It became Rocket Corporation, a larger technology company. More employees joined, including Agent, who became a trusted ally. Rocket Corporation became powerful, respected, and influential. For the first time, Victim found happiness and purpose.
+
+  War, Mitsi’s death, and decline
+
+  A large conflict between The Chosen One and The Dark Lord caused wide destruction across the Outernet. Their battles damaged many places and harmed many people. During this disaster Mitsi was killed. Her death shattered Victim. Everything he had built suddenly felt meaningless. The company began to decline and Victim sank into grief and depression. He became trapped in the past instead of moving forward.
+
+  Obsession and search for answers
+
+  Years later Victim grew obsessed with finding who was responsible. He wanted answers and then revenge. Agent discovered evidence that appeared to connect Alan’s cursor and The Chosen One to the destruction. To Victim this looked like proof that those responsible had not faced consequences. The discovery gave him a new purpose.
+
+  Rebuilding and the hunt for The Chosen One
+
+  Victim rebuilt Rocket Corporation, but it was no longer a peaceful company. It became an organization focused on finding those tied to the tragedy. He gathered resources, technology, and personnel. He aimed to capture The Chosen One and learn the truth. Eventually Victim succeeded in capturing The Chosen One and imprisoned him in a simulation chamber called The Box. There Victim used interrogation methods to study memories and gather information.
+
+  Learning and new abilities
+
+  During his investigations Victim learned more about past events and about The Second Coming and hidden abilities connected to it. He also learned about Yellow and how Alan’s cursor had entered their world. Victim thought that by understanding this process he might gain powers like the cursor.
+
+  Becoming H4CK3R
+
+  Victim tricked Alan into renaming him through a fake interface. The rename transformed him into H4CK3R and gave him abilities similar to the cursor. For the first time Victim had power like the force that had tormented him. With these powers H4CK3R began to change parts of reality. He renamed The Chosen One to “NO ONE” and attacked Alan’s digital world. Victim wanted Alan to feel the helplessness and loss he had felt.
+
+  Alan’s response and the Dark Lord’s return
+
+  Alan unplugged the computer to stop the attack. Soon after, The Dark Lord returned. The Dark Lord offered H4CK3R an alliance and said they could bring Mitsi back. Victim wanted Mitsi back more than anything. He accepted the offer and worked with The Dark Lord on a resurrection project. They combined technology, memory data, and abilities tied to The Second Coming to try to recreate Mitsi.
+
+  Resurrection, revelation, and betrayal
+
+  At first the resurrection seemed to succeed and Mitsi appeared restored. Then Victim discovered the truth: The Dark Lord had killed Mitsi. The Dark Lord admitted this. Victim was filled with rage and attacked. A fierce battle followed. Despite H4CK3R’s power, The Dark Lord won.
+
+  Final acts and transformation
+
+  While losing, Victim used his last strength to free Mitsi from the corruption affecting her mind. He made sure she could think for herself again. After that, Victim was transformed into a controlled servant. The Dark Lord turned him into a tool for his own plans, taking the freedom Victim had fought for.
+
+  Consequences and legacy
+
+  Victim’s story shows repeated loss. He suffered under Alan’s control, escaped, found happiness, and then lost it again. Grief drove him to revenge, which led to his fall. Even so, Victim remains central in the Animation vs. Animation story. He was the first stick figure, the founder of Rocket Corporation, and later H4CK3R. Many major events in the universe trace back to him. His choices had wide consequences for other characters and for the balance of power in their world.`
   },
 
   {
@@ -63,13 +78,45 @@ export const characters = [
     slug: "red",
     type: "Stick Figure",
     description:
-      "Red is a torrential presence: the first to sprint into a collapsing panel, the loudest voice in a chaotic scene, and the fastest to commit to a risky rescue. His energy reshapes moments into movement, and his impulses have repeatedly altered the course of events across the canvas.",
+      "Red is one of the five main Fighting Stick Figures. He is energetic, impulsive, and loyal. Red often acts quickly in dangerous situations and shows a strong connection to animals.",
     appearance:
-      "Red’s silhouette is defined by sharp, decisive strokes and a saturated red fill. His gestures are broad and dramatic; you can read his intentions at a glance. Over time battle scars—irregular strokes, darker overlays, and hurried re-traces—have become part of his look, like the calluses of someone who has always used force to solve problems.",
+      "A red stick figure with bold strokes and an energetic stance. He shows visible battle marks from past conflicts.",
     role:
       "Red serves as the group’s engine: he initiates action, pulls characters out of danger, and forces confrontations the world might otherwise ignore.",
-    lore:
-      "Full story: Red’s origin scenes show him stumbling into situations that demanded immediate reaction — collapsing frames, falling objects, and encroaching tool effects. Early on his quick bravery saved lives but also created collateral problems: improvised rescues disturbed adjacent panels, triggered chain reactions, and sometimes worsened the very threats he opposed. These consequences shaped a long arc for Red: he moved from pure instinct to a reluctant strategist. Notable events include a high-profile rescue where Red pulled several characters out of a shifting panel only to discover the panel’s physics had been altered in the process; the altered gravity caused a nearby bridge frame to snap, stranding dozens and forcing Red to coordinate a larger-scale relief. That event was a turning point. Since then Red has apprenticed under Green to learn measured tactics while still relying on his decisive nature when speed matters. His relationship with Victim is complex — protective but also tinged with guilt after a rescue that made Victim more vulnerable. Recently Red confronted a corrupted tool and nearly lost part of his own form; surviving that encounter left him emotionally raw and more thoughtful, but his core drive — to act for others — remains unchanged."
+    lore: `Red — Full biography
+
+Overview
+
+Red is one of the five main Fighting Stick Figures in the Animation vs. Animator series. He is known for his energetic personality, a competitive attitude, and a strong connection to animals. Red often acts quickly and emotionally, but he is loyal to his friends and willing to help them in danger.
+
+Creation and early group life
+
+Red was created by Alan Becker along with the other colored stick figures. After gaining life, he joined a close group that included Blue, Green, Yellow, and The Second Coming. The group explored the computer world, played games, and went on adventures together.
+
+Personality and behavior
+
+Among the group, Red is usually the most emotional and action-oriented. He tends to jump into situations without fully thinking through the consequences. This impulsive behavior sometimes creates problems for himself and his friends, but his courage often helps the group overcome difficult challenges. Red is respected by his teammates for his loyalty and bravery.
+
+Connection with animals
+
+A defining trait of Red is his strong bond with animals. He frequently forms friendships with creatures that others might fear or avoid. This ability to connect with animals helps him solve problems in ways that fighting cannot. During the events of Animation vs. Minecraft, Red develops a particularly strong relationship with Minecraft creatures, and these interactions become an important part of his appearances in that story.
+
+Abilities
+
+Red’s strengths are his speed, energy, and willingness to act. He is often the first to engage in a dangerous situation and can inspire others to follow. While he does not rely on complex strategy, his bravery and quick actions are valuable in fights and rescues. His ability to bond with animals also gives him unexpected advantages in certain scenarios.
+
+Relationships
+
+Red’s close friends include the other colored stick figures: Blue, Green, and Yellow, as well as The Second Coming. He is loyal to this group and frequently places their safety above his own. His relationship with Victim is allied and protective; he shows concern for Victim’s welfare and will act to help when needed.
+
+Major appearances
+
+Red appears throughout the Animation vs. Animator series as part of the main group of Fighting Stick Figures. He takes part in many battles, rescues, and adventures alongside his friends. Notably, Red’s interactions with Minecraft creatures during Animation vs. Minecraft highlight his connection to animals and show him earning trust across different digital worlds.
+
+Legacy and role in the series
+
+Red remains one of the most recognizable Fighting Stick Figures. His adventurous spirit, loyalty, and bond with animals make him a distinct member of the team. Although his impulsive nature can cause complications, his determination and bravery consistently make him a valuable ally in the series.
+`
   },
 
   {
@@ -78,13 +125,45 @@ export const characters = [
     slug: "blue",
     type: "Stick Figure",
     description:
-      "Blue is the methodical intellect of the canvas: experimental, patient, and meticulous. Where others react, Blue documents. Where others improvise, Blue designs systems that make survival repeatable.",
+      "Blue is one of the five main Fighting Stick Figures. He is calm, curious, and interested in brewing and alchemy. Blue experiments with potions and practical solutions, and supports his friends with knowledge and planning.",
     appearance:
-      "Blue appears as a calm, cool-toned figure with subtle annotations and small tool-holders that look like quick sketches pinned to his limbs. His posture is often observant; he watches before acting.",
+      "A blue stick figure with a calm posture and small tool marks. He appears thoughtful and precise.",
     role:
-      "Architect of repair and memory — Blue invents techniques that let characters persist across unstable frames and leads repair parties that stitch the world back together.",
-    lore:
-      "Full story: Blue’s arc begins in laboratories of improvisation: crude anchors, redundancy sketches, and trial caches that attempted to preserve frame data when the Animator scrolled away. His first major breakthrough came when he recognized a reproducible pattern of loss — a memory leak that occurred during certain transitions. By building anchors (redundant marks that served as reference points) and local caches (small replicated fragments of essential data), Blue enabled some characters to retain continuity across otherwise lossy sequences. That success made him indispensable. However, Blue’s experiments attracted risks: his anchor networks sometimes interfered with the Animator’s tools, causing curious feedback loops that had to be carefully managed. Blue’s relationships are primarily technical — he mentors apprentices who learn how to read frame math and build repair glyphs — but he also has a quiet, steady rapport with Yellow, who helps him translate technical fixes into visual signals others can use. Recently Blue formalized a small repair guild and negotiated access to neutral frames where experiments could be performed without endangering populated panels. His current challenge is scaling fixes without increasing the chance of unexpected interactions with the Animator’s newer tools."
+      "Inventor and support — Blue studies systems, creates helpful potions and tools, and aids the group with practical solutions.",
+    lore: `Blue — Full biography
+
+Overview
+
+Blue is one of the five main Fighting Stick Figures in the Animation vs. Animator series. He is known for intelligence, curiosity, and a strong interest in brewing and alchemy. Blue prefers to observe and experiment rather than rush into action. He is dependable in conflict and valuable for his knowledge.
+
+Creation and group life
+
+Blue was created by Alan Becker alongside Red, Green, Yellow, and The Second Coming. After coming to life, Blue became part of the close group of stick figures who explored the computer world together. The group shared adventures, tests, and fights as they learned to interact with their environment.
+
+Personality and interests
+
+Blue is calm and thoughtful. He approaches problems with patience and observation. Rather than acting on impulse, Blue experiments to find practical solutions. Over time he developed a particular interest in brewing and potion-making, treating these activities as both study and craft.
+
+Brewing and Minecraft
+
+Blue’s interest in potions became especially clear during the events of Animation vs. Minecraft. There he learned to use Minecraft’s brewing mechanics to make a variety of potions. Through trial and error, Blue gained knowledge of potion effects and combinations. He often used these potions to support his teammates or to solve problems that could not be fixed by fighting alone.
+
+Abilities and role in conflicts
+
+Blue’s abilities center on knowledge, experimentation, and craft. He understands systems and mechanics, and he applies that understanding to create potions and tools. In battles he provides support through planning, preparing helpful items, and finding nonviolent solutions when possible. He is capable in fights but rarely acts as the primary attacker.
+
+Relationships
+
+Blue is close to the other Fighting Stick Figures: Red, Green, Yellow, and The Second Coming. He works with them on adventures and trusts them in dangerous situations. Blue often acts as a steadying influence when others act more emotionally. He collaborates with Yellow on visual cues and with Green on careful tactics.
+
+Major appearances
+
+Blue appears across the Animation vs. Animator series in team adventures and conflicts. Notable appearances include interactions during Animation vs. Minecraft, where his brewing and potion skills are highlighted. In group battles he commonly supports teammates with prepared items and practical plans.
+
+Legacy and role in the series
+
+Blue remains an important and recognizable member of the Fighting Stick Figures. His intelligence, creativity, and steady approach make him a reliable ally. His love of brewing and experimentation distinguishes him within the group and helps the team face diverse challenges.
+`
   },
 
   {
@@ -95,7 +174,7 @@ export const characters = [
     description:
       "Green is the tactician: economical with motion, deliberate in decision-making, and focused on minimizing harm. He brings discipline to conflict and a structured approach to problem-solving.",
     appearance:
-      "Green’s lines are compact and efficient; his silhouette emphasizes balance and readiness. Small training marks at joints indicate practice routines intended to conserve energy and reduce wear during repeated maneuvers.",
+      "A green stick figure with balanced lines and a ready stance. He looks trained and steady.",
     role:
       "Defender and teacher — Green trains units to move safely through hostile frames and coordinates protective measures during repairs.",
     lore:
@@ -110,7 +189,7 @@ export const characters = [
     description:
       "Yellow is the group’s creative and emotional resource. Their answers are aesthetic as much as practical: a doodle that doubles as a warning, a melody that calms an unstable object, or a mural that restores a sense of continuity to a shattered neighborhood of frames.",
     appearance:
-      "Yellow’s strokes are energetic and playful; their panels often show additional little glyphs, doodles, and color swatches that serve as both decoration and encoded instruction.",
+      "A yellow stick figure with playful strokes and small doodles. Friendly and expressive in appearance.",
     role:
       "Cultural keeper and practical artist — Yellow maintains morale, encodes repair hints into visuals, and invents non-technical ways to soothe or attract attention.",
     lore:
@@ -125,7 +204,7 @@ export const characters = [
     description:
       "The Animator is the human presence that draws, erases, and manipulates the canvas. Their choices — whether deliberate or playful — define the laws governing characters’ lives, and their tools create the conditions characters must either adapt to or resist.",
     appearance:
-      "Manifestations of the Animator vary: an oversized hand, a stylus, an off-screen cursor, or simply the absence that precedes a sudden change. The Animator’s marks often leave traces of intention — brush strokes, layer edges, and interface artifacts.",
+      "Usually represented by a cursor, hand, or stylus. The Animator’s tools and marks shape the characters' environment.",
     role:
       "Origin and arbiter — the Animator’s interventions can create opportunities, hazards, or inexplicable phenomena; characters orient much of their strategy around anticipating or responding to that influence.",
     lore:

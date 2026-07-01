@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from "react";
-import { useNavigate } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 import { characters } from "../data/characters";
 
 function levenshtein(a, b) {
@@ -40,6 +40,8 @@ export default function Sidebar() {
   const [open, setOpen] = useState(true);
   const [query, setQuery] = useState("");
   const navigate = useNavigate();
+  const location = useLocation();
+  const activeSlug = location.pathname === "/" ? "" : location.pathname.replace(/^\/+/, "");
 
   const suggestions = useMemo(() => {
     const q = query.trim();
@@ -90,7 +92,13 @@ export default function Sidebar() {
 
           <ul className="side-links">
             {characters.map((c) => (
-              <li key={c.slug} onClick={() => navigate(`/${c.slug}`)} className="side-link">{c.name}</li>
+              <li
+                key={c.slug}
+                onClick={() => navigate(`/${c.slug}`)}
+                className={`side-link${activeSlug === c.slug ? " active" : ""}`}
+              >
+                {c.name}
+              </li>
             ))}
           </ul>
 

@@ -3,8 +3,8 @@ import React, { useState } from "react";
 import { characters } from "../data/characters";
 
 function Home() {
-  const tdl = new URL("../assets/TDL.webp", import.meta.url).href;
-  const tco = new URL("../assets/TCO.png", import.meta.url).href;
+  const tdl = new URL("../assets/Stickfigurered.webp", import.meta.url).href;
+  const tco = new URL("../assets/Stickfigureheadbluehd.webp", import.meta.url).href;
   const navigate = useNavigate();
   const [zoom, setZoom] = useState(false);
   return (
@@ -13,7 +13,7 @@ function Home() {
         <div className="home-hero">
           <h1 className="title">
             <img src={tdl} alt="tdl" className="title-icon large tdl-large left" />
-            Animation VS Wiki
+            Animation <span className="vs-accent">VS</span> Wiki
             <img src={tco} alt="tco" className="title-icon large right tco-large" />
           </h1>
 
@@ -34,7 +34,7 @@ function Home() {
         <div className="cards">
           {characters.map((c) => (
             <Link key={c.id} to={`/${c.slug}`} className="card-link">
-              <article className="card">
+              <article className="card" data-accent={c.slug}>
                 <h2 className="card-title">{c.name}</h2>
                 <p className="card-desc">{c.description.slice(0, 100)}...</p>
               </article>
