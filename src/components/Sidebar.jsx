@@ -91,6 +91,18 @@ export default function Sidebar() {
           </form>
 
           <ul className="side-links">
+            <li
+              onClick={() => navigate('/')}
+              className={`side-link${activeSlug === "" ? " active" : ""}`}
+            >
+              Home
+            </li>
+            <li
+              onClick={() => navigate('/trivia')}
+              className={`side-link${activeSlug === "trivia" ? " active" : ""}`}
+            >
+              Trivia
+            </li>
             {characters.map((c) => (
               <li
                 key={c.slug}

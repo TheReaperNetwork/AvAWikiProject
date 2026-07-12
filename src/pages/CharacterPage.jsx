@@ -10,6 +10,7 @@ export default function CharacterPage() {
     victim: "vh.webp",
     red: "Stickfigurered.webp",
     blue: "Stickfigurebluehd.webp",
+    green: "Green.webp",
   };
   const appearanceImg = imgMap[slug] ? new URL(`../assets/${imgMap[slug]}`, import.meta.url).href : null;
 

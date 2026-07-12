@@ -4,72 +4,38 @@ export const characters = [
     name: "Victim",
     slug: "victim",
     type: "Stick Figure",
-    description: `Victim is the first stick figure created by Alan Becker. He began as a simple drawing on Alan’s computer and grew into a major figure in the Outernet. Over time he became a founder, leader, and later a driven avenger known as H4CK3R. His life moves from creation and survival to escape, recovery, success, loss, and a final fall into corruption and control.`,
+    description: "Victim is the first stick figure created by Alan Becker and one of the most important figures in the Animator vs. Animation story. His life is shaped by suffering, escape, loss, and a long struggle for meaning.",
     appearance:
       "A simple black stick figure with a round head and minimal facial detail. He shows signs of wear and repairs and moves with a wary, measured posture.",
     role:
       "Origin character and tragic linchpin — Victim’s life traces the consequences of the Animator’s experiments and fuels many characters’ motivations, from rescue to revenge.",
-    lore: `Victim — Full biography
+    lore: `Victim is the first stick figure ever created by Alan Becker (noogai3) and the first stick figure in the entire Animator vs. Animation franchise. He first appeared in the original Animator vs. Animation, where he was created on June 3, 2006 inside Adobe Flash. Although Alan initially saw him as a simple animation, Victim immediately displayed intelligence and self-awareness, attempting to escape the box he was created in and defend himself against Alan's cursor.
 
-  Overview
+After realizing Victim could think for himself, Alan repeatedly tortured him for entertainment. Victim was attacked with animation tools, crushed, cut apart, drowned, blown up, erased, and killed in many different ways. Each time Alan recreated him, Victim retained his memories, forcing him to relive the same suffering for approximately nine months. During this time, Victim became increasingly resourceful, using Flash tools, cloning himself, and building weapons in an attempt to defeat Alan. Despite coming close to victory on several occasions, Alan always stopped him by closing Flash without saving or killing him again.
 
-  Victim was the first stick figure created by Alan Becker. He began as a simple drawing on Alan’s computer and was not intended to be a full character. Over time he showed intelligence and agency, which led to a long story of survival, escape, recovery, leadership, loss, revenge, and final corruption.
+In March 2007, Victim finally escaped by secretly building a rocket from pieces of Adobe Flash while Alan was away. During his escape he accidentally entered Grace's computer, where Grace was uploading her own stick figure animation. This event pulled Victim into the Outernet and stripped away his original black color, leaving him permanently gray.
 
-  Creation and early life
+After arriving in the Outernet, Victim met Mitsi. She welcomed him despite his fearful and traumatized state and slowly helped him recover from the psychological damage caused by Alan's abuse. Victim suffered severe PTSD, frequently seeing hallucinations of Alan's cursor and living in constant fear, but Mitsi patiently supported him until he gradually learned to live without fear. Together they repaired the windmill damaged by Victim's arrival and founded a small repair business using Victim's engineering skills and knowledge of animation tools.
 
-  Alan created Victim as the first stick figure. At first, Victim was only something Alan could animate and interact with. He was not meant to be a hero or villain. Soon Victim showed more intelligence than expected: he reacted to events, planned, and fought back. Alan treated Victim like a toy and often attacked him with drawing tools, menu windows, and other parts of the computer. Victim spent his early life trying to survive. Each time he fought back, Alan had the advantage because Alan controlled the computer.
+Over the next four years, the repair stand expanded into Rocket Corporation, a successful technology company. Victim became a respected leader, hiring engineers, scientists, and security staff such as Agent. During this period he experienced the happiest years of his life, forming close friendships throughout the Outernet and building a future with Mitsi. His creativity and leadership allowed Rocket Corporation to become one of the most advanced organizations in the digital world.
 
-  Survival and repeated loss
+Everything changed during the rampage of The Chosen One and The Dark Lord across the internet. Their battle caused widespread destruction, including an attack on Newgrounds that resulted in the deaths of many innocent characters. Mitsi disappeared during the incident. When Agent later returned with memory recordings, Victim watched the memories repeatedly and believed The Chosen One had killed Mitsi with his fire powers. Her apparent death devastated him and caused Rocket Corporation to decline over the following seven years as Victim fell into grief and depression.
 
-  Victim refused to give up. He became creative and used objects around him as weapons. He tried many ways to defeat Alan, but he was ultimately defeated. This cycle did not happen only once. For months Victim was repeatedly recreated and deleted. Each recreation forced him to relive the same suffering. This repeated loss left deep emotional scars. While other characters later had friends and adventures, Victim’s earliest memories were mostly pain, fear, and failure.
+Years later, Agent and another employee discovered footage showing Alan's cursor apparently working alongside The Chosen One. Because of Victim's traumatic past with Alan and his belief that The Chosen One had killed Mitsi, he concluded that both were connected and responsible for destroying his old and new lives. Determined to take revenge, Victim rebuilt Rocket Corporation into a powerful organization dedicated to capturing The Chosen One and finding Alan.
 
-  Escape to the Outernet
+Victim eventually captured The Chosen One and imprisoned him inside a simulation chamber called The Box. Using advanced technology, Victim searched through The Chosen One's memories to learn what had happened during the internet attack. During this investigation he also discovered information about The Second Coming's hidden abilities. Later, Victim captured Yellow after learning that Yellow had previously programmed Alan's cursor into the stick figures' world.
 
-  Eventually Victim found a way to escape Alan’s direct control. He tricked Alan and used a rocket to leave the computer. The rocket carried him into the wider digital world called the Outernet. For the first time, Victim was free from Alan’s immediate control.
+Using the knowledge gained from Yellow, Victim tricked Alan into renaming him through a fake system window. This transformed Victim into H4CK3R, giving him powers similar to Alan's cursor and allowing him to manipulate names, data, and parts of reality itself. With these abilities he renamed The Chosen One as "NO ONE" and attacked Alan's computer, destroying years of Alan's work in an attempt to make Alan experience the same pain that Victim had suffered. Alan eventually unplugged the computer to stop the attack.
 
-  Life in the Outernet and meeting Mitsi
+Shortly afterward, The Dark Lord returned in a new form after being rebuilt by the ViraBots. He offered to help Victim resurrect Mitsi in exchange for his cooperation. Driven by grief and hope, Victim accepted the offer. Together they returned to Rocket Corporation and built a resurrection chamber using H4CK3R's powers, data recovered from Mitsi, and The Second Coming's dormant life-restoring abilities.
 
-  Life in the Outernet was different from life on Alan’s screen. There were communities, businesses, and other digital beings. In the Outernet Victim met Mitsi. Mitsi treated him with kindness and respect. She helped him recover from his early trauma. The emotional wounds did not fully go away, but Mitsi gave Victim a reason to move forward.
+The resurrection appeared to succeed, but Victim quickly realized Mitsi was behaving strangely. By examining memories and stored data, he discovered the truth: Mitsi had not been killed by The Chosen One as he had believed for years. She had actually been killed by The Dark Lord during the Newgrounds attack. The Dark Lord openly admitted this, revealing that he had manipulated Victim's grief to gain access to H4CK3R's abilities.
 
-  Founding a repair stand and Rocket Corporation
+Filled with rage, Victim attacked The Dark Lord. Although H4CK3R's new powers allowed him to fight on equal terms for a time, The Dark Lord eventually defeated him and used the resurrection technology on Victim himself, turning him into an obedient servant. Before losing his free will completely, Victim used the last of his remaining strength to remove the Virabot corruption from Mitsi's mind, restoring her true consciousness so she would no longer be controlled.
 
-  Victim and Mitsi started a small repair stand. They fixed damaged items and helped other residents of the Outernet. The work was honest and peaceful. Over years the stand grew. It became Rocket Corporation, a larger technology company. More employees joined, including Agent, who became a trusted ally. Rocket Corporation became powerful, respected, and influential. For the first time, Victim found happiness and purpose.
+Victim's story is one of constant tragedy. He survived months of abuse at the hands of his creator, escaped and built a peaceful new life, lost the person who helped him heal, spent years consumed by grief and revenge, discovered he had blamed the wrong person, and was ultimately betrayed by the very ally who promised to help him. Despite becoming one of the main antagonists of Animator vs. Animation Season 3, many of his actions were driven by trauma, loss, and a desire to protect the memory of Mitsi rather than simple cruelty.
 
-  War, Mitsi’s death, and decline
-
-  A large conflict between The Chosen One and The Dark Lord caused wide destruction across the Outernet. Their battles damaged many places and harmed many people. During this disaster Mitsi was killed. Her death shattered Victim. Everything he had built suddenly felt meaningless. The company began to decline and Victim sank into grief and depression. He became trapped in the past instead of moving forward.
-
-  Obsession and search for answers
-
-  Years later Victim grew obsessed with finding who was responsible. He wanted answers and then revenge. Agent discovered evidence that appeared to connect Alan’s cursor and The Chosen One to the destruction. To Victim this looked like proof that those responsible had not faced consequences. The discovery gave him a new purpose.
-
-  Rebuilding and the hunt for The Chosen One
-
-  Victim rebuilt Rocket Corporation, but it was no longer a peaceful company. It became an organization focused on finding those tied to the tragedy. He gathered resources, technology, and personnel. He aimed to capture The Chosen One and learn the truth. Eventually Victim succeeded in capturing The Chosen One and imprisoned him in a simulation chamber called The Box. There Victim used interrogation methods to study memories and gather information.
-
-  Learning and new abilities
-
-  During his investigations Victim learned more about past events and about The Second Coming and hidden abilities connected to it. He also learned about Yellow and how Alan’s cursor had entered their world. Victim thought that by understanding this process he might gain powers like the cursor.
-
-  Becoming H4CK3R
-
-  Victim tricked Alan into renaming him through a fake interface. The rename transformed him into H4CK3R and gave him abilities similar to the cursor. For the first time Victim had power like the force that had tormented him. With these powers H4CK3R began to change parts of reality. He renamed The Chosen One to “NO ONE” and attacked Alan’s digital world. Victim wanted Alan to feel the helplessness and loss he had felt.
-
-  Alan’s response and the Dark Lord’s return
-
-  Alan unplugged the computer to stop the attack. Soon after, The Dark Lord returned. The Dark Lord offered H4CK3R an alliance and said they could bring Mitsi back. Victim wanted Mitsi back more than anything. He accepted the offer and worked with The Dark Lord on a resurrection project. They combined technology, memory data, and abilities tied to The Second Coming to try to recreate Mitsi.
-
-  Resurrection, revelation, and betrayal
-
-  At first the resurrection seemed to succeed and Mitsi appeared restored. Then Victim discovered the truth: The Dark Lord had killed Mitsi. The Dark Lord admitted this. Victim was filled with rage and attacked. A fierce battle followed. Despite H4CK3R’s power, The Dark Lord won.
-
-  Final acts and transformation
-
-  While losing, Victim used his last strength to free Mitsi from the corruption affecting her mind. He made sure she could think for herself again. After that, Victim was transformed into a controlled servant. The Dark Lord turned him into a tool for his own plans, taking the freedom Victim had fought for.
-
-  Consequences and legacy
-
-  Victim’s story shows repeated loss. He suffered under Alan’s control, escaped, found happiness, and then lost it again. Grief drove him to revenge, which led to his fall. Even so, Victim remains central in the Animation vs. Animation story. He was the first stick figure, the founder of Rocket Corporation, and later H4CK3R. Many major events in the universe trace back to him. His choices had wide consequences for other characters and for the balance of power in their world.`
+Today, Victim remains one of the most important characters in the Animator vs. Animation universe. As the first stick figure ever created, the founder of Rocket Corporation, and the character whose life shaped many of the series' biggest events, his story forms the foundation of the entire Animation vs. Animation timeline.`
   },
 
   {
@@ -78,45 +44,38 @@ export const characters = [
     slug: "red",
     type: "Stick Figure",
     description:
-      "Red is one of the five main Fighting Stick Figures. He is energetic, impulsive, and loyal. Red often acts quickly in dangerous situations and shows a strong connection to animals.",
+      "Red is an energetic and impulsive Fighting Stick Figure known for his courage, loyalty, and deep bond with animals.",
     appearance:
       "A red stick figure with bold strokes and an energetic stance. He shows visible battle marks from past conflicts.",
     role:
       "Red serves as the group’s engine: he initiates action, pulls characters out of danger, and forces confrontations the world might otherwise ignore.",
-    lore: `Red — Full biography
+    lore: `Red is one of the five Fighting Stick Figures created by Alan Becker. Along with Blue, Green, Yellow, and The Second Coming, he lives on Alan's computer and spends most of his time exploring different digital worlds and going on adventures.
 
-Overview
+Unlike Victim, Red was not created to be tortured. By the time Red and the other colored stick figures were created, Alan treated his creations much better. They were free to explore the computer, play games, and interact with one another, which allowed Red to develop a cheerful and adventurous personality.
 
-Red is one of the five main Fighting Stick Figures in the Animation vs. Animator series. He is known for his energetic personality, a competitive attitude, and a strong connection to animals. Red often acts quickly and emotionally, but he is loyal to his friends and willing to help them in danger.
+From the beginning, Red stood out because he was energetic, impulsive, and loved excitement. He often rushed into situations without thinking through the consequences. While this sometimes caused trouble for the group, his bravery also meant he was usually the first to protect his friends when danger appeared.
 
-Creation and early group life
+One of Red's defining traits is his unusual connection with animals. While the other stick figures generally treated creatures they encountered as obstacles or enemies, Red was naturally drawn to them. He showed kindness toward animals and often earned their trust very quickly. This ability became one of his greatest strengths throughout the series.
 
-Red was created by Alan Becker along with the other colored stick figures. After gaining life, he joined a close group that included Blue, Green, Yellow, and The Second Coming. The group explored the computer world, played games, and went on adventures together.
+As Red spent more time with Blue, Green, Yellow, and The Second Coming, the five became an inseparable group. They played games together, explored software installed on Alan's computer, and constantly found themselves involved in unexpected adventures. Although they argued from time to time, they always worked together whenever one of them was in danger.
 
-Personality and behavior
+During the events of Animation vs. Minecraft, Red's love for animals became much more important. While exploring the Minecraft world with his friends, he quickly formed bonds with many of the creatures living there. Instead of seeing them only as game mobs, Red treated them like living beings. His friendly nature allowed him to approach animals that would normally ignore or attack players.
 
-Among the group, Red is usually the most emotional and action-oriented. He tends to jump into situations without fully thinking through the consequences. This impulsive behavior sometimes creates problems for himself and his friends, but his courage often helps the group overcome difficult challenges. Red is respected by his teammates for his loyalty and bravery.
+Throughout their Minecraft adventures, Red fought alongside his friends against many dangers, including hostile mobs, dangerous environments, and powerful enemies. Although he was not usually the strategist of the group, his courage and willingness to act often helped save the others when situations became desperate.
 
-Connection with animals
+Red's impulsive nature sometimes caused problems. He occasionally acted before listening to his teammates or rushed into fights without a plan. However, these mistakes helped him mature over time. As the group's adventures became more dangerous, Red slowly learned when to rely on his instincts and when to trust the ideas of his friends.
 
-A defining trait of Red is his strong bond with animals. He frequently forms friendships with creatures that others might fear or avoid. This ability to connect with animals helps him solve problems in ways that fighting cannot. During the events of Animation vs. Minecraft, Red develops a particularly strong relationship with Minecraft creatures, and these interactions become an important part of his appearances in that story.
+One of Red's closest relationships is with The Second Coming. Although The Second Coming often takes on a leadership role during major conflicts, Red never hesitates to stand beside him in battle. The two trust each other deeply, and Red repeatedly risks his own safety to help protect his friends.
 
-Abilities
+Red also has a strong friendship with Blue. Their personalities are very different, with Blue preferring careful thinking while Red often follows his emotions. Despite these differences, they work well together because each balances the other's weaknesses.
 
-Red’s strengths are his speed, energy, and willingness to act. He is often the first to engage in a dangerous situation and can inspire others to follow. While he does not rely on complex strategy, his bravery and quick actions are valuable in fights and rescues. His ability to bond with animals also gives him unexpected advantages in certain scenarios.
+His relationship with Green is built around teamwork and shared adventures. Green's creativity often complements Red's direct approach to problems, while Yellow's intelligence and technical knowledge frequently help Red understand situations that would otherwise confuse him.
 
-Relationships
+Across many different adventures, including visits to Minecraft, Pokémon, League of Legends, and other digital worlds, Red continues to prove himself as a dependable member of the Fighting Stick Figures. Although each world presents new challenges, his determination never changes.
 
-Red’s close friends include the other colored stick figures: Blue, Green, and Yellow, as well as The Second Coming. He is loyal to this group and frequently places their safety above his own. His relationship with Victim is allied and protective; he shows concern for Victim’s welfare and will act to help when needed.
+As the series progresses, Red becomes more than simply the impulsive member of the team. He learns from his experiences, grows closer to his friends, and becomes someone they can rely on during dangerous situations. Even when he makes mistakes, his loyalty and courage are never questioned.
 
-Major appearances
-
-Red appears throughout the Animation vs. Animator series as part of the main group of Fighting Stick Figures. He takes part in many battles, rescues, and adventures alongside his friends. Notably, Red’s interactions with Minecraft creatures during Animation vs. Minecraft highlight his connection to animals and show him earning trust across different digital worlds.
-
-Legacy and role in the series
-
-Red remains one of the most recognizable Fighting Stick Figures. His adventurous spirit, loyalty, and bond with animals make him a distinct member of the team. Although his impulsive nature can cause complications, his determination and bravery consistently make him a valuable ally in the series.
-`
+Today, Red remains one of the most recognizable Fighting Stick Figures in the Animation vs. Animation universe. His adventurous personality, compassion toward animals, and unwavering loyalty make him an essential part of the group's adventures. While he may not possess the overwhelming power of characters like The Second Coming or The Chosen One, Red's bravery and willingness to protect those he cares about have earned him an important place in the story.`
   },
 
   {
@@ -125,46 +84,42 @@ Red remains one of the most recognizable Fighting Stick Figures. His adventurous
     slug: "blue",
     type: "Stick Figure",
     description:
-      "Blue is one of the five main Fighting Stick Figures. He is calm, curious, and interested in brewing and alchemy. Blue experiments with potions and practical solutions, and supports his friends with knowledge and planning.",
+      "Blue is a calm and curious Fighting Stick Figure whose patience and love of brewing make him one of the group's most dependable problem-solvers.",
     appearance:
       "A blue stick figure with a calm posture and small tool marks. He appears thoughtful and precise.",
     role:
       "Inventor and support — Blue studies systems, creates helpful potions and tools, and aids the group with practical solutions.",
-    lore: `Blue — Full biography
+    lore: `Blue is one of the five Fighting Stick Figures created by Alan Becker. He was created alongside Red, Green, Yellow, and The Second Coming, becoming one of the main characters in the Animation vs. Animator series. Unlike Victim, Blue was not created during Alan's early experiments. By this point, Alan treated his stick figures more like companions, allowing them to explore his computer and develop their own personalities.
 
-Overview
+From the beginning, Blue was known for being calm, curious, and intelligent. While Red often rushed into danger and Green focused on entertainment, Blue preferred experimenting with objects and figuring out how things worked. He enjoyed learning through trial and error and was always interested in discovering something new.
 
-Blue is one of the five main Fighting Stick Figures in the Animation vs. Animator series. He is known for intelligence, curiosity, and a strong interest in brewing and alchemy. Blue prefers to observe and experiment rather than rush into action. He is dependable in conflict and valuable for his knowledge.
+As Blue spent more time with the other Fighting Stick Figures, the five became close friends. They played games together, explored different programs on Alan's computer, and regularly found themselves in unexpected adventures. Blue was one of the more patient members of the group, often taking time to think before acting. Although he could be distracted by his own interests, he was always willing to help his friends whenever they needed him.
 
-Creation and group life
+Blue's defining interest appeared during the events of Animation vs. Minecraft. After entering the Minecraft world, he became fascinated with brewing. Instead of simply fighting monsters or collecting resources, Blue spent much of his time learning how Minecraft's brewing system worked.
 
-Blue was created by Alan Becker alongside Red, Green, Yellow, and The Second Coming. After coming to life, Blue became part of the close group of stick figures who explored the computer world together. The group shared adventures, tests, and fights as they learned to interact with their environment.
+He began collecting ingredients from across the Minecraft world, experimenting with different combinations to discover new potion effects. Many of his early attempts failed, but Blue continued experimenting until he understood how brewing worked. His persistence eventually made him the group's potion expert.
 
-Personality and interests
+As Blue's knowledge grew, he started creating potions that greatly helped the Fighting Stick Figures during their adventures. He brewed healing potions to recover from injuries, strength potions to improve their fighting abilities, speed potions to help them escape danger, and many other useful mixtures. His understanding of brewing often gave the group an advantage during difficult situations.
 
-Blue is calm and thoughtful. He approaches problems with patience and observation. Rather than acting on impulse, Blue experiments to find practical solutions. Over time he developed a particular interest in brewing and potion-making, treating these activities as both study and craft.
+However, Blue's fascination with potions sometimes became an obsession. Whenever he discovered a new ingredient or an unusual flower, he would often stop everything else to study it. This occasionally frustrated his friends, especially when they were facing immediate danger. Even so, they understood that Blue's experiments usually led to discoveries that helped everyone later.
 
-Brewing and Minecraft
+One of Blue's favorite discoveries was the Nether Wart, an important brewing ingredient in Minecraft. He became so interested in it that it almost became an addiction, often searching for more whenever he had the opportunity. This running joke appeared several times throughout the series and became one of Blue's most recognizable character traits.
 
-Blue’s interest in potions became especially clear during the events of Animation vs. Minecraft. There he learned to use Minecraft’s brewing mechanics to make a variety of potions. Through trial and error, Blue gained knowledge of potion effects and combinations. He often used these potions to support his teammates or to solve problems that could not be fixed by fighting alone.
+Despite his peaceful personality, Blue is still a skilled fighter. Like the other Fighting Stick Figures, he possesses excellent agility, quick reflexes, and impressive hand-to-hand combat skills. During battles, however, Blue usually relies on strategy rather than brute force. Instead of charging directly into enemies, he prefers using the environment, planning ahead, or supporting his teammates with potions and clever ideas.
 
-Abilities and role in conflicts
+Blue shares a close friendship with all of the Fighting Stick Figures. His relationship with Red is built on balancing each other's personalities. While Red often acts without thinking, Blue is more patient and analytical. Together, they help cover each other's weaknesses.
 
-Blue’s abilities center on knowledge, experimentation, and craft. He understands systems and mechanics, and he applies that understanding to create potions and tools. In battles he provides support through planning, preparing helpful items, and finding nonviolent solutions when possible. He is capable in fights but rarely acts as the primary attacker.
+Blue also works well alongside Yellow. Both enjoy solving problems through knowledge rather than strength, although they specialize in different areas. Yellow focuses on engineering and technology, while Blue prefers chemistry and brewing. Their combined skills often allow the group to overcome obstacles that fighting alone cannot solve.
 
-Relationships
+Blue's friendship with Green is based on mutual trust and teamwork. Although Green enjoys entertaining others while Blue prefers quiet experimentation, the two regularly support one another during adventures.
 
-Blue is close to the other Fighting Stick Figures: Red, Green, Yellow, and The Second Coming. He works with them on adventures and trusts them in dangerous situations. Blue often acts as a steadying influence when others act more emotionally. He collaborates with Yellow on visual cues and with Green on careful tactics.
+Blue also respects The Second Coming, recognizing him as one of the strongest and most dependable members of the group. During major conflicts, Blue often supports The Second Coming by using his knowledge and potions to strengthen the team's chances of success.
 
-Major appearances
+Throughout the Animation vs. Animator series, Blue takes part in many adventures across different digital worlds. Whether exploring Minecraft, visiting other games, or facing dangerous enemies, he remains an important member of the Fighting Stick Figures. His intelligence, patience, and willingness to learn make him one of the group's most reliable problem-solvers.
 
-Blue appears across the Animation vs. Animator series in team adventures and conflicts. Notable appearances include interactions during Animation vs. Minecraft, where his brewing and potion skills are highlighted. In group battles he commonly supports teammates with prepared items and practical plans.
+Over time, Blue grows from a curious experimenter into an experienced adventurer. Although he never loses his love of brewing or his fascination with discovering new things, he learns when to focus on helping his friends first. His experiments become more controlled, his confidence grows, and his knowledge proves valuable in many important situations.
 
-Legacy and role in the series
-
-Blue remains an important and recognizable member of the Fighting Stick Figures. His intelligence, creativity, and steady approach make him a reliable ally. His love of brewing and experimentation distinguishes him within the group and helps the team face diverse challenges.
-`
-  },
+Today, Blue remains one of the most recognizable Fighting Stick Figures in the Animation vs. Animator universe. His calm personality, mastery of Minecraft brewing, and unwavering loyalty to his friends have made him one of the team's most dependable members. While he may not seek attention or leadership, Blue's intelligence and creativity often provide the solutions that allow the group to overcome even their greatest challenges.`  },
 
   {
     id: 4,
@@ -172,13 +127,42 @@ Blue remains an important and recognizable member of the Fighting Stick Figures.
     slug: "green",
     type: "Stick Figure",
     description:
-      "Green is the tactician: economical with motion, deliberate in decision-making, and focused on minimizing harm. He brings discipline to conflict and a structured approach to problem-solving.",
+      "Green is a creative and confident Fighting Stick Figure whose love of performance and entertainment is balanced by his loyalty to his friends.",
     appearance:
-      "A green stick figure with balanced lines and a ready stance. He looks trained and steady.",
+      "A green stick figure with a lively and expressive presence. He is recognizable for his energetic attitude and strong connection to performance and creativity.",
     role:
-      "Defender and teacher — Green trains units to move safely through hostile frames and coordinates protective measures during repairs.",
-    lore:
-      "Full story: Green first emerges as a reliable hand during ambushes and chaotic tool outbreaks, using measured maneuvers to protect vulnerable characters while avoiding unnecessary damage to nearby panels. His early initiatives involved organizing small teams that practiced movement through hazardous frames using choreography that minimized ripple effects. As disruptions grew more frequent, Green became a de facto patrol leader and later a negotiator: his steady posture and willingness to engage in talks allowed him to secure localized truces with neutralized characters or groups of corrupted frames, opening corridors to conduct repairs. A recent notable achievement was orchestrating a multi-frame evacuation that prevented a cascade of erasures after a tool experiment went wrong; Green’s calm leadership kept dozens of characters safe while Blue and Yellow repaired critical anchors. His arc has shifted from pure combat to building institutions — training schools, watch rotations, and diplomatic protocols — that help the population persist in a world where rules can change at any moment."
+      "Green serves as the group’s entertainer and reliable ally, bringing creativity, optimism, and teamwork to the Fighting Stick Figures.",
+    lore: `Green is one of the five Fighting Stick Figures created by Alan Becker. He was created alongside Red, Blue, Yellow, and The Second Coming, becoming one of the main characters in the Animation vs. Animator series. Unlike Victim, Green was created after Alan had become much more friendly toward his stick figures. Instead of being treated as an experiment, Green was free to explore the computer, make friends, and enjoy life with the other colored stick figures.
+
+From the beginning, Green was energetic, creative, and confident. He enjoyed expressing himself and often looked for ways to make ordinary situations more exciting. Whether he was dancing, playing music, or showing off his skills, Green liked entertaining both his friends and himself. Although he could sometimes become distracted by his own interests, he cared deeply about the people around him.
+
+As Green spent more time with Red, Blue, Yellow, and The Second Coming, the five became a close group of friends. They explored Alan's computer together, played games, and constantly found themselves involved in new adventures. Green was one of the more social members of the group and often helped keep everyone's spirits high, even during difficult situations.
+
+Like the other Fighting Stick Figures, Green became involved in many adventures across different programs and games. He proved himself to be a capable fighter, using quick movements, agility, and teamwork to overcome enemies. Although he enjoyed performing and having fun, Green never hesitated to fight when his friends were in danger.
+
+During the events of Animation vs. Minecraft, Green worked alongside the rest of the group to survive the dangers of the Minecraft world. He helped gather resources, build shelters, defeat hostile mobs, and explore new areas. While Blue focused on brewing potions, Yellow experimented with Redstone, and Red bonded with animals, Green continued supporting the team whenever his abilities were needed.
+
+As time passed, Green developed a strong interest in music and performance. He enjoyed singing, dancing, and creating content for others to watch. This passion became even more important during later adventures, where Green embraced online entertainment and social media. He enjoyed making videos, gaining followers, and expressing his creativity through performances.
+
+However, Green's growing popularity also created new challenges. As he became more focused on entertaining his audience, he sometimes paid less attention to his friends. There were moments when he placed too much importance on views, likes, or creating content instead of helping the group. This caused disagreements and strained some of his friendships.
+
+Despite these mistakes, Green never intended to hurt anyone. Over time, he realized that fame and popularity were not more important than the people who had always supported him. Through his experiences, he learned to balance his passion for entertainment with his responsibilities as a friend and teammate.
+
+Green's friendships remain one of the most important parts of his character. He shares a strong bond with Red, whose energetic personality often matches his own. Although the two can become competitive, they trust each other completely during dangerous situations.
+
+Green also works closely with Blue. While Blue is usually calm and focused on experiments, Green brings energy and optimism to the group. Their different personalities help balance each other, allowing them to solve problems together.
+
+His friendship with Yellow is based on teamwork and respect. Yellow's technical knowledge often helps Green during difficult situations, while Green encourages Yellow to enjoy himself outside of solving problems. Together, they support the group in different ways.
+
+Green also deeply respects The Second Coming. During major battles, Green trusts The Second Coming's leadership and willingly fights alongside him whenever powerful enemies threaten the group.
+
+Although Green is known primarily for his creativity, he is also a highly skilled fighter. Like the other Fighting Stick Figures, he has excellent reflexes, speed, and hand-to-hand combat abilities. His agility often allows him to avoid attacks that would hit other fighters, and his quick thinking helps him adapt during battles.
+
+Throughout the Animation vs. Animator series, Green participates in many adventures across different digital worlds. Whether facing dangerous enemies, exploring unfamiliar games, or simply spending time with his friends, Green continues to grow as both a fighter and a person.
+
+His journey teaches him that creativity is valuable, but true success comes from supporting the people who matter most. Although he enjoys entertaining others and expressing himself through music, Green ultimately chooses friendship over fame whenever he is forced to decide between them.
+
+Today, Green remains one of the most recognizable Fighting Stick Figures in the Animation vs. Animator universe. His love of music, creativity, and performance make him unique among the group, while his loyalty and willingness to learn from his mistakes have earned him the respect of both his friends and fans. Although he sometimes follows his own interests too closely, Green always returns to help those he cares about, proving that beneath his confident personality is a kind and dependable friend.`
   },
 
   {

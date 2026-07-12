@@ -19,16 +19,22 @@ function Home() {
 
           <p className="subtitle">A modern wiki of the Animation vs universe</p>
 
-          <button
-            className="hero-cta"
-            onClick={() => {
-              const idx = Math.floor(Math.random() * characters.length);
-              navigate(`/${characters[idx].slug}`);
-            }}
-            aria-label="Surprise Article"
-          >
-            Surprise Article 🎲
-          </button>
+          <div className="hero-actions">
+            <button
+              className="hero-cta"
+              onClick={() => {
+                const idx = Math.floor(Math.random() * characters.length);
+                navigate(`/${characters[idx].slug}`);
+              }}
+              aria-label="Surprise Article"
+            >
+              Surprise Article 🎲
+            </button>
+
+            <Link to="/trivia" className="hero-cta hero-cta-secondary" aria-label="Go to trivia page">
+              Play Trivia ✨
+            </Link>
+          </div>
         </div>
 
         <div className="cards">
