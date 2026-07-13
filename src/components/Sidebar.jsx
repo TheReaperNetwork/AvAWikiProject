@@ -103,16 +103,22 @@ export default function Sidebar() {
             >
               Trivia
             </li>
-            {characters.map((c) => (
-              <li
-                key={c.slug}
-                onClick={() => navigate(`/${c.slug}`)}
-                className={`side-link${activeSlug === c.slug ? " active" : ""}`}
-              >
-                {c.name}
-              </li>
-            ))}
           </ul>
+
+          <div className="side-section">
+            <div className="side-section-title">Characters</div>
+            <ul className="side-links side-links-characters">
+              {characters.map((c) => (
+                <li
+                  key={c.slug}
+                  onClick={() => navigate(`/${c.slug}`)}
+                  className={`side-link${activeSlug === c.slug ? " active" : ""}`}
+                >
+                  {c.name}
+                </li>
+              ))}
+            </ul>
+          </div>
 
           {suggestions.length > 0 && (
             <div className="side-suggestions">

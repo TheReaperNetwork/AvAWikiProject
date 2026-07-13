@@ -736,6 +736,25 @@ button {
   gap: 8px;
 }
 
+.side-links-characters {
+  margin-top: 8px;
+  padding-top: 0;
+}
+
+.side-section {
+  margin-top: 18px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.side-section-title {
+  color: var(--text-secondary);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  padding: 0 4px;
+}
+
 .side-link {
   position: relative;
   padding: 10px 12px;
